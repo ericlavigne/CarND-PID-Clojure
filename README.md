@@ -57,7 +57,7 @@ how high you can go.
 
 You should complete this project on your own first. After you've completed the project,
 you can review
-[my solution](https://github.com/ericlavigne/CarND-PID-Control-Clojure/compare/solution)
+[my solution](https://github.com/ericlavigne/CarND-PID-Clojure/compare/solution)
 to see how it compares.
 
 ## License

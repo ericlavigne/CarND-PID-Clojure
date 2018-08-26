@@ -1,6 +1,6 @@
 (defproject pid-control "0.1.0-SNAPSHOT"
   :description "Clojure version of PID controller project from Udacity's self-driving car engineer nanodegree"
-  :url "https://github.com/ericlavigne/CarND-PID-Control-Clojure"
+  :url "https://github.com/ericlavigne/CarND-PID-Clojure"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
